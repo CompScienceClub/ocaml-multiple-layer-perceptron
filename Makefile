@@ -16,4 +16,4 @@ letters:
 
 clean:
 	rm -rf _build
-	rm -f iris letters test
+	rm -f iris letters 
