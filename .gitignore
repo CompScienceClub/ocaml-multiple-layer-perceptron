@@ -1,0 +1,7 @@
+*.swp
+*.cmi
+*.cmx
+*.o
+_build
+iris
+letters
