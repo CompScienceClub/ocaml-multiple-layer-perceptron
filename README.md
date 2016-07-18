@@ -23,7 +23,7 @@ BLAS and LAPACK are required, including development headers.  There are a number
 of options here.  First, you could install from packages:
 
 ```
-    yum install libblas-devel liblapack-devel
+    yum install blas-devel lapack-devel
 ```
 
 or
